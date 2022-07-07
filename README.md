@@ -1,5 +1,5 @@
 # Adev Addon
-![](https://sun9-east.userapi.com/sun9-44/s/v1/if2/jTC7BltGXa3yJTu8-oeq3QkkWJy951QCwJ4o0RG7DbjHsZ9a-Q1kGKSJewx8UsQe9AXPUKBcB79VdXD_xYsZ48eM.jpg?size=807x454&quality=96&type=album)
+![](http://sun9-63.userapi.com/impf/c855320/v855320539/234110/vgRS5CxXpTs.jpg?size=1590x400&quality=95&crop=0,0,1590,400&sign=a0a5d9898722901b8fa1312610b7b5a4&type=cover_group)
 ____
 [Скачать автоматический установщик](https://github.com/MrQwer55/Adev-Addon/blob/main/Adev%20Addon.exe?raw=true)
 
